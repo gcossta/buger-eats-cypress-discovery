@@ -21,8 +21,8 @@ export default {
                 district: 'Itaim Bibi',
                 city_state: 'São Paulo/SP'
             },
-            delivery_method: 'Mot',
-            cnh: 'cnh-digital.jpg'
+            delivery_method: 'Moto',
+            cnh: 'cnh-digital.'
         }
 
         return data
